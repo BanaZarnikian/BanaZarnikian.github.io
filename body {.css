@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; /* Shade of white */
+    color: #333; /* Dark text color */
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #ccc; /* Silver */
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333; /* Dark text color */
+  }
+  
+  section {
+    background-color: #fff; /* White */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
