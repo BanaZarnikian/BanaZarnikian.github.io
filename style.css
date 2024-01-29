@@ -2,49 +2,40 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #fff; /* Create a base white background for contrast */
+}
+
+section {
+  text-align: center;
+  padding: 100px 0;
+  margin-bottom: 50px; /* Create spacing between sections */
+}
+
+.section-1 {
+  background-color: #ffc0cb; /* Soft pink */
+}
+
+.section-2 {
+  background-color: #f78da7; /* Bubblegum pink */
+}
+
+.section-3 {
+  background-color: #f06292; /* Hot pink */
+}
+
+.section-4 {
+  background-color: #e91e63; /* Deep pink */
 }
 
 h1, h2 {
-  text-align: center;
+  color: #fff; /* Ensure text readability on pink backgrounds */
   font-weight: bold;
 }
 
-.section {
-  padding: 20px;
-  margin: 20px 0;
-  text-align: center;
-}
-
-.section--light-pink {
-  background-color: #f8e0e0;
-}
-
-.section--medium-pink {
-  background-color: #ffcccc;
-}
-
-.section--dark-pink {
-  background-color: #e69fa9;
-}
-
 p {
-  line-height: 1.5;
+  color: #ccc; /* Light gray for softer contrast */
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin-bottom: 10px;
-}
-
-footer {
-  text-align: center;
-  font-size: 0.8em;
-  padding: 10px;
-}
 
 
 
