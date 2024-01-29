@@ -1,57 +1,29 @@
 body {
-  font-family: sans-serif;
+  font-family: Arial, sans-serif;
   margin: 0;
+  padding: 0;
+  background-color: #f2f2f2; /* light gray background */
+}
+
+header {
+  background-color: #e6e6ff; /* light purple */
   padding: 20px;
-  color: #333;
+  text-align: center;
 }
 
-.section {
+.about,
+.education,
+.skills,
+footer {
+  background-color: #cccce0; /* lighter purple */
   padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
 }
 
-.rose-quartz {
-  background-color: #f7dbe1;
+h1, h2 {
+  color: #333; /* dark text color */
 }
 
-.blush {
-  background-color: #fce4d6;
-}
-
-.peach {
-  background-color: #ffd5b8;
-}
-
-.coral {
-  background-color: #f08080;
-}
-
-.lavender {
-  background-color: #e8d0df;
-  color: #333;
-}
-
-h1 {
-  font-size: 40px;
-  margin-bottom: 10px;
+footer {
   text-align: center;
-}
-
-h2 {
-  font-size: 24px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-p {
-  line-height: 1.5;
-  text-align: center;
-}
-
-.avatar {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin: 0 auto;
 }
