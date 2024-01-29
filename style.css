@@ -8,6 +8,7 @@ body {
 
 header, footer {
   background-color: #ffd9e6; /* Light shade of pink */
+  color: #333; /* Dark text color */
   padding: 20px;
 }
 
@@ -17,6 +18,7 @@ h1, h2 {
 
 section {
   background-color: #ffe6f2; /* Light shade of pink */
+  color: #333; /* Dark text color */
   padding: 20px;
   margin: 20px 0;
   border-radius: 10px;
@@ -34,5 +36,3 @@ li {
 footer {
   text-align: center;
 }
-
-  
