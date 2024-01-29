@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #ffd6e6; /* light pink */
+  background-color: #ffc0cb; /* light pink */
   padding: 20px;
   text-align: center;
 }
@@ -15,7 +15,7 @@ header {
 .education,
 .skills,
 footer {
-  background-color: #ffccd9; /* lighter pink */
+  background-color: #ffb6c1; /* lighter pink */
   padding: 20px;
   margin: 20px auto; /* centered */
   max-width: 600px; /* maximum width */
@@ -29,4 +29,5 @@ h1, h2 {
 footer {
   text-align: center;
 }
+
 
