@@ -1,33 +1,28 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f2f2f2; /* light gray background */
 }
 
-header {
-  background-color: #ffc0cb; /* light pink */
+section {
   padding: 20px;
   text-align: center;
 }
 
-.about,
-.education,
-.skills,
-footer {
-  background-color: #ffb6c1; /* lighter pink */
-  padding: 20px;
-  margin: 20px auto; /* centered */
-  max-width: 600px; /* maximum width */
+.section1 {
+  background-color: #ffc0cb; /* Light pink */
 }
 
-h1, h2 {
-  color: #333; /* dark text color */
-  text-align: center; /* centered */
+.section2 {
+  background-color: #ffb6c1; /* Medium pink */
 }
 
-footer {
-  text-align: center;
+.section3 {
+  background-color: #ff80ab; /* Dark pink */
+}
+
+h1, h2, p {
+  color: #444; /* Dark gray text color */
 }
 
 
