@@ -4,25 +4,47 @@ body {
   padding: 0;
 }
 
-section {
+h1, h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.section {
   padding: 20px;
+  margin: 20px 0;
   text-align: center;
 }
 
-.section1 {
-  background-color: #ffc0cb; /* Light pink */
+.section--light-pink {
+  background-color: #f8e0e0;
 }
 
-.section2 {
-  background-color: #ffb6c1; /* Medium pink */
+.section--medium-pink {
+  background-color: #ffcccc;
 }
 
-.section3 {
-  background-color: #ff80ab; /* Dark pink */
+.section--dark-pink {
+  background-color: #e69fa9;
 }
 
-h1, h2, p {
-  color: #444; /* Dark gray text color */
+p {
+  line-height: 1.5;
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8em;
+  padding: 10px;
+}
+
 
 
