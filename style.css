@@ -11,25 +11,25 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.olive {
-  background-color: #a2c983;
+.rose-quartz {
+  background-color: #f7dbe1;
 }
 
-.lime {
-  background-color: #d0f2c4;
+.blush {
+  background-color: #fce4d6;
 }
 
-.mint {
-  background-color: #bced99;
+.peach {
+  background-color: #ffd5b8;
 }
 
-.sage {
-  background-color: #85a368;
+.coral {
+  background-color: #f08080;
 }
 
-.forest {
-  background-color: #3b593b;
-  color: #fff;
+.lavender {
+  background-color: #e8d0df;
+  color: #333;
 }
 
 h1 {
@@ -54,10 +54,4 @@ p {
   height: 150px;
   border-radius: 50%;
   margin: 0 auto;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-  text-align: center;
 }
